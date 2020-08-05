@@ -1,0 +1,7 @@
+C:\GitProjects\TestExsFileJenkins\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\GitProjects\TestExsFileJenkins\SimpleApp\bin\Debug\SimpleApp.exe
+C:\GitProjects\TestExsFileJenkins\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\GitProjects\TestExsFileJenkins\SimpleApp\obj\Debug\SimpleApp.csprojAssemblyReference.cache
+C:\GitProjects\TestExsFileJenkins\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+C:\GitProjects\TestExsFileJenkins\SimpleApp\obj\Debug\SimpleApp.exe
+C:\GitProjects\TestExsFileJenkins\SimpleApp\obj\Debug\SimpleApp.pdb
