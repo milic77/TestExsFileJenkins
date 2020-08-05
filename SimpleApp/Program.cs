@@ -11,6 +11,7 @@ namespace SimpleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Exs ran");
+            Console.ReadLine();
         }
     }
 }
